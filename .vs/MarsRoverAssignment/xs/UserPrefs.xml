@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{415BA0CB-203C-49B0-9336-2824D3FC4C34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarsRoverAssignment/Commands/SpinLeftCommand.cs">
+    <Files>
+      <File FileName="MarsRoverAssignment/Program.cs" Line="10" Column="13" />
+      <File FileName="MarsRoverAssignment/InputUtil.cs" Line="36" Column="32" />
+      <File FileName="MarsRoverAssignment/Directions/DirectionLookup.cs" Line="21" Column="1" />
+      <File FileName="MarsRoverAssignment/Directions/Direction.cs" Line="4" Column="6" />
+      <File FileName="MarsRoverAssignment/Directions/NorthDirection.cs" Line="19" Column="10" />
+      <File FileName="MarsRoverAssignment/Commands/CommandLookup.cs" Line="19" Column="1" />
+      <File FileName="MarsRoverAssignment/Commands/SpinRightCommand.cs" Line="3" Column="41" />
+      <File FileName="MarsRoverAssignment/Commands/Command.cs" Line="9" Column="2" />
+      <File FileName="MarsRoverAssignment/Rover.cs" Line="33" Column="32" />
+      <File FileName="MarsRoverAssignment/Commands/MoveBackCommand.cs" Line="7" Column="18" />
+      <File FileName="MarsRoverAssignment/Commands/SpinLeftCommand.cs" Line="10" Column="2" />
+      <File FileName="MarsRoverAssignment/Commands/MoveForwardCommand.cs" Line="8" Column="1" />
+      <File FileName="MarsRoverAssignment/Directions/EastDirection.cs" Line="15" Column="35" />
+      <File FileName="MarsRoverAssignment/Directions/WestDirection.cs" Line="24" Column="10" />
+      <File FileName="MarsRoverAssignment/Directions/SouthDirection.cs" Line="13" Column="40" />
+      <File FileName="MarsRoverAssignment/Plateau.cs" Line="1" Column="1" />
+      <File FileName="MarsRoverTest/UnitTest1.cs" Line="23" Column="70" />
+      <File FileName="MarsRoverAssignment/.gitignore" Line="36" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarsRoverAssignment" expanded="True">
+            <Node name="MarsRoverAssignment" expanded="True">
+              <Node name="Commands" expanded="True">
+                <Node name="SpinLeftCommand.cs" selected="True" />
+              </Node>
+              <Node name="Directions" expanded="True" />
+            </Node>
+            <Node name="MarsRoverTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MarsRoverAssignment" expanded="True">
+            <Node name="MarsRoverTest" expanded="True">
+              <Node name="MarsRoverTest" expanded="True">
+                <Node name="CommandLookupTest" expanded="True">
+                  <Node name="ShouldThrowInvalidOperationExceptionForInvalidKey" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MarsRoverTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MarsRoverAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
